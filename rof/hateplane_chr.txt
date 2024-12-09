@@ -1,0 +1,15 @@
+14
+dru,dru_chr
+gar,gar_chr
+ghu,ghu_chr
+gol,gol_chr
+mim,mim_chr
+ngm,ngm_chr
+rat,rat_chr
+spi,spi_chr
+dvm,dvm_chr
+vsf,vsf_chr
+vsm,vsm_chr
+wil,wil_chr
+zof,zof_chr
+zom,zom_chr
